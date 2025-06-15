@@ -117,7 +117,7 @@
             // 
             this.buttonAjouter.BackColor = System.Drawing.Color.DimGray;
             this.buttonAjouter.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.buttonAjouter.Location = new System.Drawing.Point(68, 325);
+            this.buttonAjouter.Location = new System.Drawing.Point(54, 259);
             this.buttonAjouter.Name = "buttonAjouter";
             this.buttonAjouter.Size = new System.Drawing.Size(103, 29);
             this.buttonAjouter.TabIndex = 8;
@@ -130,7 +130,7 @@
             this.Supprimer.BackColor = System.Drawing.Color.DimGray;
             this.Supprimer.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.Supprimer.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.Supprimer.Location = new System.Drawing.Point(204, 381);
+            this.Supprimer.Location = new System.Drawing.Point(190, 315);
             this.Supprimer.Name = "Supprimer";
             this.Supprimer.Size = new System.Drawing.Size(96, 29);
             this.Supprimer.TabIndex = 9;
@@ -142,7 +142,7 @@
             // 
             this.btnModifier.BackColor = System.Drawing.Color.DimGray;
             this.btnModifier.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnModifier.Location = new System.Drawing.Point(68, 381);
+            this.btnModifier.Location = new System.Drawing.Point(54, 315);
             this.btnModifier.Name = "btnModifier";
             this.btnModifier.Size = new System.Drawing.Size(103, 29);
             this.btnModifier.TabIndex = 10;
@@ -154,7 +154,7 @@
             // 
             this.btnAnnuler.BackColor = System.Drawing.Color.DimGray;
             this.btnAnnuler.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnAnnuler.Location = new System.Drawing.Point(204, 325);
+            this.btnAnnuler.Location = new System.Drawing.Point(190, 259);
             this.btnAnnuler.Name = "btnAnnuler";
             this.btnAnnuler.Size = new System.Drawing.Size(96, 29);
             this.btnAnnuler.TabIndex = 13;
@@ -176,7 +176,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(940, 422);
+            this.ClientSize = new System.Drawing.Size(940, 383);
             this.Controls.Add(this.btnAnnuler);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.btnModifier);
